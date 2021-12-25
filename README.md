@@ -1,0 +1,2 @@
+# fastify-starter
+fastify mongoose
